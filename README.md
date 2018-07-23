@@ -20,7 +20,7 @@ This same question goes for the `http` handlers and other possible API's such as
 
 #### Example: Mattermost (OS Slack Alternative)
 
-Mattermost is an example that defines a base [store](https://github.com/mattermost/mattermost-server/blob/master/store/store.go) that wraps all the individual entity store interfaces. Then provides [sql and other](https://github.com/mattermost/mattermost-server/blob/master/store/sqlstore/store.go) concrete implementations of these interfaces for actual storage. This includes a [mock](https://github.com/mattermost/mattermost-server/blob/master/store/storetest/store.go) store. They have 20+ entities.
+Mattermost is an example that defines a base [store](https://github.com/mattermost/mattermost-server/blob/master/store/store.go) that wraps all the individual entity store interfaces. Then provides [sql and other](https://github.com/mattermost/mattermost-server/blob/master/store/sqlstore/store.go) concrete implementations of these interfaces for actual storage. This includes a [mock](https://github.com/mattermost/mattermost-server/blob/master/store/storetest/store.go) store.
 
 ## Design choices and Articles:
 
