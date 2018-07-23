@@ -1,0 +1,8 @@
+{
+  "http": {
+    "address": ":8080"
+  },
+  "mysql": {
+    "dsn": "user:password@tcp(localhost:3306)/dbname?collation=utf8mb4_unicode_ci"
+  }
+}
