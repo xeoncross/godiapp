@@ -3,9 +3,8 @@
 Test application design + folder package structure to achieve a clean web
 application that is testable and without strong uncoupling.
 
-- Version 1: https://www.reddit.com/r/golang/comments/8zn2ti/how_to_handle_dependency_injection_and_mocking/
-- Version 2:
-
+- Version 2: https://www.reddit.com/r/golang/comments/91a54y/proper_structure_for_a_dependencyinjection_based/
+- Version 1: https://www.reddit.com/r/golang/comments/8zn2ti/how_to_handle_dependency_injection_and_mocking/ (old)
 
 ## Questions:
 
