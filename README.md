@@ -6,6 +6,13 @@ application that is testable and without strong uncoupling.
 - Version 2: https://www.reddit.com/r/golang/comments/91a54y/proper_structure_for_a_dependencyinjection_based/
 - Version 1: https://www.reddit.com/r/golang/comments/8zn2ti/how_to_handle_dependency_injection_and_mocking/ (old)
 
+This system contains three "databases" to show how easy it is to swap stores when using DI:
+
+- `/mock` (Fake backend, for testing)
+- `/mysql`
+- `/ledis` (like redis, but in-process like sqlite)
+
+
 ## Questions:
 
 ### Testing + Mocks
