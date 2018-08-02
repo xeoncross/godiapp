@@ -41,3 +41,5 @@ Mattermost is an example that defines a base [store](https://github.com/mattermo
 - [Discussion on passing db to http.Handlers](https://www.reddit.com/r/golang/comments/5vsz2t/what_is_the_best_way_to_pass_a_db_to_web_handlers/)
 - [Should I mock the DB?](https://www.reddit.com/r/golang/comments/6n3m4w/is_there_a_good_use_case_for_mocking_a_db/)
 - [http.Handler wrapping](https://medium.com/@matryer/the-http-handler-wrapper-technique-in-golang-updated-bc7fbcffa702)
+- [Golang UK Conference 2016 - Building an enterprise service in Go](https://www.youtube.com/watch?v=twcDf_Y2gXY) (video)
+- [Exploring DDD in Go](https://github.com/marcusolsson/goddd)
